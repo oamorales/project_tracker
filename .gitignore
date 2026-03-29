@@ -38,8 +38,5 @@
 !/app/assets/builds/.keep
 
 /node_modules
-id_ed25519
-id_ed25519.pub
-id_ed25519.pub.pub
 .ssh/*
 !.ssh/README
