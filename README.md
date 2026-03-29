@@ -23,7 +23,7 @@ Permite crear proyectos, asignar tareas, hacer seguimiento de estados y priorida
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/tu-usuario/project_tracker.git
+git clone https://github.com/oamorales/project_tracker.git
 cd project_tracker
 
 # Instalar dependencias
@@ -47,7 +47,7 @@ Visita `http://localhost:3000`
 
 ## Screenshots
 
-[Agregar screenshots aquí]
+[Por agregar]
 
 ## Licencia
 
